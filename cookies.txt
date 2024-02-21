@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-shop.conexall.com	TRUE	/	FALSE	1999999999	osclass	u6jnm86pakp0hmnn7l86a6c2cl
-
